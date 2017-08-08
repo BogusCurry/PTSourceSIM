@@ -4,4 +4,4 @@ A virtual world or massively multiplayer online world (MMOW) is a computer-based
 
 # PTSourceSIM
 
-PTSourceSIM is an server and client platform for hosting virtual worlds and the Metaverse. PTSourceSIM also uses an architecture known as "Hypergrid", which allows users to teleport between multiple OpenSim-based virtual worlds by providing a hyperlinked map which indexes public grids.
+PTSourceSIM is an server and client platform for hosting virtual worlds and the Metaverse. PTSourceSIM also uses an architecture known as "Hypergrid", which allows users to teleport between multiple virtual worlds by providing a hyperlinked map which indexes public grids.
