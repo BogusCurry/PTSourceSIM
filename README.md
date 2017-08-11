@@ -29,6 +29,8 @@ PTSourceSIM is an server and client platform for hosting virtual worlds and the 
 * Gestures
 * Attachments
 * Combat
+* Building
+* Texturing
 * Region crossing
 * Teleport
 * Persistent avatar inventories
