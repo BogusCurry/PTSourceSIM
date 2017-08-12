@@ -73,3 +73,12 @@ PTSourceSIM is an server and client platform for hosting virtual worlds and the 
 * Permissions
 * Voice
 * Web frontends
+
+
+![PTSourceSIM](/images/01.jpg)
+
+![PTSourceSIM](/images/02.jpg)
+
+![PTSourceSIM](/images/03.jpg)
+
+![PTSourceSIM](/images/04.jpg)
