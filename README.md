@@ -82,3 +82,20 @@ PTSourceSIM is an server and client platform for hosting virtual worlds and ohe 
 ![PTSourceSIM](/images/03.jpg)
 
 ![PTSourceSIM](/images/04.jpg)
+
+## You can see some videos bellow
+[PTSourceSIM Animations and Gestures](https://www.youtube.com/watch?v=SYxHv3qmykg "PTSourceSIM Animations and Gestures")
+
+[PTSourceSIM Terraforming](https://www.youtube.com/watch?v=QU7y3a4Nm9A "PTSourceSIM Terraforming")
+
+[PTSourceSIM Basic Avatar](https://www.youtube.com/watch?v=XhgHfk_z9I4 "PTSourceSIM Basic Avatar")
+
+[PTSourceSIM Basic Texturing](https://www.youtube.com/watch?v=w6A9j5mEyvQ "PTSourceSIM Basic Texturing")
+
+[PTSourceSIM Basic Building](https://www.youtube.com/watch?v=HqlzWwjaUs4 "PTSourceSIM Basic Building")
+
+[PTSourceSIM Inventory Management](https://www.youtube.com/watch?v=aQxjrK6moYY "PTSourceSIM Inventory Management")
+
+[PTSourceSIM Basic Interactivity](https://www.youtube.com/watch?v=axD69LvG_L8 "PTSourceSIM Basic Interactivity")
+
+[PTSourceSIM Basic Movement](https://www.youtube.com/watch?v=tIi_vzlhz74 "PTSourceSIM Basic Movement")
