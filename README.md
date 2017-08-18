@@ -1,4 +1,4 @@
-# To be released in end of 30/08/2017
+# To be released in end of 08/2017
 
 # Introduction to Virtual Worlds
 
